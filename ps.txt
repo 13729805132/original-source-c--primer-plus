@@ -1,0 +1,7 @@
+echo "# original-source-c--primer-plus" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/13729805132/original-source-c--primer-plus.git
+git push -u origin main
