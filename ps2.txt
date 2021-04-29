@@ -1,0 +1,4 @@
+
+警告：warning: LF will be replaced by CRLF in index.html.
+解决方法：$git config --global core.autocrlf input
+
